@@ -1,8 +1,6 @@
 - Hi, I’m @Fireeagle711
 - I’m interested in video game designing
 - I’m currently learning java, C++ & C#
-- I’m looking to collaborate on game projects
-- How to reach me ...
 
 <!---
 Fireeagle711/Fireeagle711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
